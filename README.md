@@ -7,3 +7,7 @@ Caption Generator for Images powered by  Watson Visual Recognition
   (a) Give the API key & url in service endpoint from Text to Speech service.
   (b) Select language as "UK English" and any one voice from the drop down.
  4. In "Generator audio output" node, select any TTS voice to obtain the speech output.
+
+
+Node-red URL for web UI:
+https://node-red-xgprz-2020-10-19.mybluemix.net/ui/#!/3?socketid=ud4MRnsZFGdStlDmAAAs
