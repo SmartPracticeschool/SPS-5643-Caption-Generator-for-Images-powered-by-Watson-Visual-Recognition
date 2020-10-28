@@ -11,3 +11,6 @@ Caption Generator for Images powered by  Watson Visual Recognition
 
 Node-red URL for web UI:
 https://node-red-xgprz-2020-10-19.mybluemix.net/ui/#!/3?socketid=ud4MRnsZFGdStlDmAAAs
+
+Video demonstration:
+https://youtu.be/y7VI2dCd7JI
